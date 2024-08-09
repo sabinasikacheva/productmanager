@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pavelsikachev/static/css/main.9bd3650e.css",
+    "main.js": "/pavelsikachev/static/js/main.e82d984e.js",
+    "static/js/453.78fc161e.chunk.js": "/pavelsikachev/static/js/453.78fc161e.chunk.js",
+    "static/media/Pavel.jpg": "/pavelsikachev/static/media/Pavel.277f8578d53f9ff804e6.jpg",
+    "index.html": "/pavelsikachev/index.html",
+    "main.9bd3650e.css.map": "/pavelsikachev/static/css/main.9bd3650e.css.map",
+    "main.e82d984e.js.map": "/pavelsikachev/static/js/main.e82d984e.js.map",
+    "453.78fc161e.chunk.js.map": "/pavelsikachev/static/js/453.78fc161e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd3650e.css",
+    "static/js/main.e82d984e.js"
+  ]
+}
