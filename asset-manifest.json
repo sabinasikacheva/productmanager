@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/pavelsikachev/static/css/main.9bd3650e.css",
-    "main.js": "/pavelsikachev/static/js/main.e82d984e.js",
+    "main.css": "/pavelsikachev/static/css/main.13d07fa1.css",
+    "main.js": "/pavelsikachev/static/js/main.5bcc7894.js",
     "static/js/453.78fc161e.chunk.js": "/pavelsikachev/static/js/453.78fc161e.chunk.js",
+    "static/media/pic1.png": "/pavelsikachev/static/media/pic1.8ac12bcd184c2f8083f5.png",
+    "static/media/logo.png": "/pavelsikachev/static/media/logo.7104c4d93a3a6b98adca.png",
+    "static/media/Resume.pdf": "/pavelsikachev/static/media/Resume.2f8571bc93e380a092dd.pdf",
     "static/media/Pavel.jpg": "/pavelsikachev/static/media/Pavel.277f8578d53f9ff804e6.jpg",
+    "static/media/research.png": "/pavelsikachev/static/media/research.406793fd697fae472187.png",
+    "static/media/strategy.png": "/pavelsikachev/static/media/strategy.b0fba81b4e81061f5aa6.png",
+    "static/media/analytics.png": "/pavelsikachev/static/media/analytics.30d70ffffcefbb899ee6.png",
+    "static/media/Gmail.png": "/pavelsikachev/static/media/Gmail.23d2a9b0f4cc2cae2ed1.png",
+    "static/media/LinkedIn.svg": "/pavelsikachev/static/media/LinkedIn.f10c9de5cd3d33321b43.svg",
     "index.html": "/pavelsikachev/index.html",
-    "main.9bd3650e.css.map": "/pavelsikachev/static/css/main.9bd3650e.css.map",
-    "main.e82d984e.js.map": "/pavelsikachev/static/js/main.e82d984e.js.map",
+    "main.13d07fa1.css.map": "/pavelsikachev/static/css/main.13d07fa1.css.map",
+    "main.5bcc7894.js.map": "/pavelsikachev/static/js/main.5bcc7894.js.map",
     "453.78fc161e.chunk.js.map": "/pavelsikachev/static/js/453.78fc161e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bd3650e.css",
-    "static/js/main.e82d984e.js"
+    "static/css/main.13d07fa1.css",
+    "static/js/main.5bcc7894.js"
   ]
 }
