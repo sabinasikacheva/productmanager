@@ -16,8 +16,13 @@
 }
 
 .logo {
-    font-size: 24px;
-    font-weight: bold;
+    /* font-size: 24px;
+    font-weight: bold; */
+    max-width: 100%;
+    display: inline-block;
+}
+.logo_img {
+    width: 60px;   
 }
 
 .nav-links {

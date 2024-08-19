@@ -8,8 +8,7 @@ function Hero() {
       <div className="hero-content">
         <div className="hero-text">
           <h1>Hello, I'm Pavel Sikachev</h1>
-          <p>Hey there! I'm a product manager and growth consultant with 9+ years of experience in the international business. Skilled in the Cross functional Product and Project management in B2B SaaS e-commerce and B2C marketplace environment. Growth strategy.
-          I specialize in software as a service (SaaS) products and have experience with marketplace, mobile apps and web apps. Based in Yerevan, Armenia.</p>
+          <p>Seasoned Director of Product Management with over seven years of international experience. Based in Yerevan, Armenia.</p>
           <a href="#work" className="btn">View My Work</a>
         </div>
         <div className="hero-image">

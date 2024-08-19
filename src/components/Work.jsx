@@ -14,19 +14,23 @@ function Work() {
       <div className="work-gallery">
         <div className="work-item">
           <img src={work1} alt="Project 1" />
-          <h3>Project Title 1</h3>
+          <h3>MARS</h3>
+          <h4>Workworkwork</h4>
         </div>
         <div className="work-item">
           <img src={work2} alt="Project 2" />
-          <h3>Project Title 2</h3>
+          <h3>Jume Platform</h3>
+          <h4>Workworkwork</h4>
         </div>
         <div className="work-item">
           <img src={work3} alt="Project 3" />
-          <h3>Project Title 3</h3>
+          <h3>MARS</h3>
+          <h4>Workworkwork</h4>
         </div>
         <div className="work-item">
           <img src={work4} alt="Project 4" />
-          <h3>Project Title 4</h3>
+          <h3>Jume Platform</h3>
+          <h4>Workworkwork</h4>
         </div>
       </div>
     </section>
