@@ -11,7 +11,7 @@ function About() {
 I also enjoy mentoring young technologists looking to start careers in the tech.</p>
       <h2>Resume</h2>
       <p>You can download my resume by clicking the button below:</p>
-      <a href={resume} download className="btn">Download Resume</a>
+      {/* <a href={resume} download className="btn">Download Resume</a> */}
     </section>
   );
 }

@@ -19,7 +19,8 @@
   .skills-description h2 {
     font-size: 36px;
     margin-bottom: 20px;
-    color: #333;
+    color: #023059;
+    /* color: #333; */
   }
   
   .skills-description p {
@@ -51,7 +52,8 @@
   .skill-card h3 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: #333;
+    color: #023059;
+    /* color: #333; */
   }
   
   .skill-card p {
