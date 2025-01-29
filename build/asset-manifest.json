@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/pavelsikachev/static/css/main.2eae1846.css",
-    "main.js": "/pavelsikachev/static/js/main.1828e24a.js",
-    "static/js/453.78fc161e.chunk.js": "/pavelsikachev/static/js/453.78fc161e.chunk.js",
-    "static/media/pic1.png": "/pavelsikachev/static/media/pic1.8ac12bcd184c2f8083f5.png",
-    "static/media/logo.png": "/pavelsikachev/static/media/logo.7104c4d93a3a6b98adca.png",
-    "static/media/Facebook.png": "/pavelsikachev/static/media/Facebook.636688f04a2761deec6d.png",
-    "static/media/Resume.pdf": "/pavelsikachev/static/media/Resume.2f8571bc93e380a092dd.pdf",
-    "static/media/Pavel.jpg": "/pavelsikachev/static/media/Pavel.277f8578d53f9ff804e6.jpg",
-    "static/media/research.png": "/pavelsikachev/static/media/research.406793fd697fae472187.png",
-    "static/media/strategy.png": "/pavelsikachev/static/media/strategy.b0fba81b4e81061f5aa6.png",
-    "static/media/analytics.png": "/pavelsikachev/static/media/analytics.30d70ffffcefbb899ee6.png",
-    "static/media/Gmail.png": "/pavelsikachev/static/media/Gmail.23d2a9b0f4cc2cae2ed1.png",
-    "static/media/LinkedIn.svg": "/pavelsikachev/static/media/LinkedIn.f10c9de5cd3d33321b434c21192b499d.svg",
-    "index.html": "/pavelsikachev/index.html",
-    "main.2eae1846.css.map": "/pavelsikachev/static/css/main.2eae1846.css.map",
-    "main.1828e24a.js.map": "/pavelsikachev/static/js/main.1828e24a.js.map",
-    "453.78fc161e.chunk.js.map": "/pavelsikachev/static/js/453.78fc161e.chunk.js.map"
+    "main.css": "/productmanager/static/css/main.2eae1846.css",
+    "main.js": "/productmanager/static/js/main.f229cef9.js",
+    "static/js/453.fbb0e65b.chunk.js": "/productmanager/static/js/453.fbb0e65b.chunk.js",
+    "static/media/pic1.png": "/productmanager/static/media/pic1.8ac12bcd184c2f8083f5.png",
+    "static/media/logo.png": "/productmanager/static/media/logo.7104c4d93a3a6b98adca.png",
+    "static/media/Facebook.png": "/productmanager/static/media/Facebook.636688f04a2761deec6d.png",
+    "static/media/Resume.pdf": "/productmanager/static/media/Resume.2f8571bc93e380a092dd.pdf",
+    "static/media/Danone.webp": "/productmanager/static/media/Danone.6fee9112abadcda62fe5.webp",
+    "static/media/MARS2.webp": "/productmanager/static/media/MARS2.db542b78750aba019df1.webp",
+    "static/media/Pavel.jpg": "/productmanager/static/media/Pavel.277f8578d53f9ff804e6.jpg",
+    "static/media/Pavel_BW.webp": "/productmanager/static/media/Pavel_BW.43ba4b62ad9a7ac7a114.webp",
+    "static/media/research.png": "/productmanager/static/media/research.406793fd697fae472187.png",
+    "static/media/strategy.png": "/productmanager/static/media/strategy.b0fba81b4e81061f5aa6.png",
+    "static/media/analytics.png": "/productmanager/static/media/analytics.30d70ffffcefbb899ee6.png",
+    "static/media/Depix.webp": "/productmanager/static/media/Depix.2941395021bd0d87fa5c.webp",
+    "static/media/Gmail.png": "/productmanager/static/media/Gmail.23d2a9b0f4cc2cae2ed1.png",
+    "static/media/Kinship.webp": "/productmanager/static/media/Kinship.8c5edcc5f6940448d711.webp",
+    "static/media/Jivochat.webp": "/productmanager/static/media/Jivochat.3a88a2f3a4d9101d2536.webp",
+    "static/media/Jume.webp": "/productmanager/static/media/Jume.3c85c7a85c3d40a6bc84.webp",
+    "static/media/LinkedIn.svg": "/productmanager/static/media/LinkedIn.f10c9de5cd3d33321b434c21192b499d.svg",
+    "index.html": "/productmanager/index.html",
+    "main.2eae1846.css.map": "/productmanager/static/css/main.2eae1846.css.map",
+    "main.f229cef9.js.map": "/productmanager/static/js/main.f229cef9.js.map",
+    "453.fbb0e65b.chunk.js.map": "/productmanager/static/js/453.fbb0e65b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2eae1846.css",
-    "static/js/main.1828e24a.js"
+    "static/js/main.f229cef9.js"
   ]
 }

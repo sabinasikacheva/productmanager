@@ -10,10 +10,10 @@ import work4 from './images/Jume.png';
 function Work() {
   return (
     <section id="work" className="work">
-      <h2>My Work</h2>
+      <h2>Brands I’ve worked with</h2>
       <div className="work-gallery">
         <div className="work-item">
-          <img src={work1} alt="Project 1" />
+          <img src={work1} alt="Mars" />
           <h3>MARS</h3>
           <h4>Workworkwork</h4>
         </div>

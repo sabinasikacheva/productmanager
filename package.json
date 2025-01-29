@@ -1,5 +1,5 @@
 {
-  "name": "pavelsikachev",
+  "name": "productmanager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://sabinasikacheva.github.io/pavelsikachev/",
+  "homepage": "https://sabinasikacheva.github.io/productmanager/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
