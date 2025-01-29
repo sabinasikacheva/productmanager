@@ -1,7 +1,8 @@
 .selected-projects {
     padding: 50px 20px;
     text-align: center;
-    background-color: #D9D5D2;
+    background-color: #fff;
+    /* background-color: #D9D5D2; */
 }
 
 .projects {
@@ -15,21 +16,23 @@
 }
 
 .project img {
-    /* width: 100%;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
-    /* width: 100%; */
-    height: 200px; /* Фиксированная высота */
-    object-fit: contain; /* Масштабирование изображения до размера, сохраняя пропорции */
+    height: 200px;
+    /* Фиксированная высота */
+    object-fit: contain;
+    /* Масштабирование изображения до размера, сохраняя пропорции */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease;
-    background-color: #f4f4f4; /* Цвет фона для пустого пространства */
+    background-color: #f4f4f4;
+    /* Цвет фона для пустого пространства */
 }
+
 .selected-projects h2 {
-    font-size: 28px;
+    font-size: 36px;
+    margin-bottom: 20px;
     color: #023059;
+    text-align: left;
+    letter-spacing: -.03em;
 }
 
 .project h3 {

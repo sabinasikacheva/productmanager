@@ -1,25 +1,13 @@
 /* Hero.css */
 
-/* .hero-pic {
-    z-index: 0;
-    width: 56%;
-    margin-bottom: 73px;
-    padding-left: 0;
-    position: absolute;
-    top: auto;
-    bottom: 0%;
-    left: auto;
-    right: 0%; 
-} */
-
 .hero {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 50px 20px;
     height: 100vh;
-    background-color: #D9D5D2;
-    /* background-color: #f4f4f4; Цвет фона секции */
+    background-color: #fff;
+
 }
 
 .hero-content {
@@ -41,14 +29,12 @@
     font-size: 42px;
     margin-bottom: 20px;
     color: #023059;
-    /* color: #333; */
 }
 
 .hero p {
     font-size: 20px;
     line-height: 1.6;
     color: #666;
-    /* color: #023059; */
     margin-bottom: 30px;
 }
 
